@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: IP Address Plugin
+Plugin Name: User IP Display Plugin
 Description: Display IP address of users in the admin area.
 Version: 1.0
 Author: TurkProgrammer
